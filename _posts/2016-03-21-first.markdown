@@ -8,6 +8,5 @@ header-img: "img/post-bg-2015.jpg"
 tags:
     - Life
 ---
-
 #hello 2016
 this is a test blog.
