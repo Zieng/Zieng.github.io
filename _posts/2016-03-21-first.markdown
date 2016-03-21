@@ -1,12 +1,13 @@
 ---
 layout:     post
-title:      "Hello 2015"
+title:      "Hello 2016"
 subtitle:   "Hello World, Hello Blog"
-date:       2015-01-29 12:00:00
+date:       2016-03-21 15:32:00
 author:     "Zieng"
 header-img: "img/post-bg-2015.jpg"
 tags:
     - Life
 ---
-#hello
-this is my first post
+
+#hello 2016
+this is a test blog.
