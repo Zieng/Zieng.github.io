@@ -1,5 +1,5 @@
 # Site settings
-title: Your Blog
+title: Zieng's Blog
 SEOTitle: Blog of Zieng
 header-img: img/home-bg.jpg
 email: lijiebug@gmail.com
@@ -12,11 +12,11 @@ baseurl: ""                             # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
+weibo_username:     Zieng
+zhihu_username:     JIE LI
+github_username:    Zieng
 #twitter_username:  huxpro
-facebook_username:  huxpro
+facebook_username:  JIE LI
 
 
 
@@ -43,7 +43,7 @@ kramdown:
 #disqus_username: _your_disqus_short_name_
 
 # Duoshuo settings
-duoshuo_username: huxblog
+duoshuo_username: ZiengBlog
 # Share component is depend on Comment so we can NOT use share only.
 duoshuo_share: true                     # set to false if you want to use Comment without Sharing
 
